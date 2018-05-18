@@ -1,0 +1,18 @@
+{
+  "name": "paulcoin",
+  "version": "0.1.0",
+  "description": "Paul Berg's coin",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity"
+  ],
+  "author": "Paul Berg <hello@paulrberg.com> (https://paulrberg.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "web3": "^0.20.6"
+  }
+}
